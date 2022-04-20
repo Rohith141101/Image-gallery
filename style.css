@@ -1,0 +1,104 @@
+body{
+    background-color: skyblue;
+}
+.container{
+    font-family: sans-serif;
+    border: 1px solid rgb(228, 210, 49);
+    background-color: rgb(228, 210, 49);
+    text-align: center;
+    margin-top:0%;
+    padding:1.5%;
+    font-size: 30px;
+}
+.thumbnail1{
+    margin-left:0%;
+    margin-top:0%;
+    background: transparent;
+}
+.thumbnail2{
+    margin-left:50%;
+    margin-top:-15.85%;
+    background: transparent;
+}
+.thumbnail3{
+    margin-left:0%;
+    margin-top:-0.12%;
+    background: transparent;
+}
+.thumbnail4{
+    
+    margin-left:25%;
+    margin-top:-15.85%;
+    background: transparent;
+
+}
+.thumbnail5{
+    margin-left:49.95%;
+    margin-top:-15.8%;
+    background: transparent;
+}
+.thumbnail6{
+    margin-left:76%;
+    margin-top:-15.85%;
+    background: transparent;
+}
+
+
+
+
+
+@media screen and (max-width:378px){
+    body{
+        background-color: skyblue;
+    }
+    .container{
+        font-family: sans-serif;
+        border: 1px solid rgb(228, 210, 49);
+        background-color: rgb(228, 210, 49);
+        text-align: center;
+        margin-top:0%;
+        padding:1.2%;
+        font-size: 12px;
+        margin-left:1.%;
+    }
+    .thumbnail1{
+        margin-left:1.%;
+        margin-top:1.2%;
+        background: transparent;
+        width:199.5%;
+    }
+    .thumbnail2{
+        margin-left:0.3%;
+        margin-top:0%;
+        background: transparent;
+        width:99.4%;
+    }
+    .thumbnail3{
+        margin-left:0.4%;
+        margin-top:-0.12%;
+        background: transparent;
+        width:396.9%
+    }
+    .thumbnail4{
+        
+        margin-left:0.4%;
+        margin-top:0%;
+        background: transparent;
+        width:297.9%;
+    
+    }
+    .thumbnail5{
+        margin-left:0.3%;
+        margin-top:0%;
+        background: transparent;
+        width:191%;
+    }
+    .thumbnail6{
+        margin-left:0.3%;
+        margin-top:0%;
+        background: transparent;
+        width:99.5%;
+    }  
+}
+
+
