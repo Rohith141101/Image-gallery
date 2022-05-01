@@ -1,5 +1,6 @@
 body{
     background-color: skyblue;
+    border:1px solid skyblue;
 }
 .container{
     font-family: sans-serif;
@@ -50,6 +51,7 @@ body{
 @media screen and (max-width:380px){
     body{
         background-color: skyblue;
+        border:1px solid skyblue;
     }
     .container{
         font-family: sans-serif;
@@ -107,6 +109,7 @@ body{
 @media screen and (max-width:600px){
     body{
         background-color: skyblue;
+        border:1px solid skyblue;
     }
     .container{
         font-family: sans-serif;
@@ -162,6 +165,7 @@ body{
 @media screen and (max-width:850px){
     body{
         background-color: skyblue;
+        border:1px solid skyblue;
     }
     .container{
         font-family: sans-serif;
@@ -212,6 +216,3 @@ body{
         width:99.5%;
     }  
 }
-
-
-
